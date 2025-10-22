@@ -15,7 +15,7 @@
 - 🧩 Skilled in **Python, SQL, Power BI, and Excel**
 - 📊 Love building **dashboards, visual stories, and analytical reports**
 - 📈 Currently learning **Machine Learning for Business Insights**
-- 📨 Reach me at: **ajay3027@gmail.com**
+- 📨 Reach me at: **ajaysharma070203@gmail.com**
 - ⚡ Fun fact: *I enjoy automating Excel tasks with Python 😄*
 
 ---
@@ -90,10 +90,10 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/ajay3027" target="_blank">
+  <a href="https://www.linkedin.com/in/ajay-sharma-a27a50375/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ajay3027@gmail.com">
+  <a href="mailto:ajaysharma070203@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ajay3027">
