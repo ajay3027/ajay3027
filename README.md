@@ -9,26 +9,52 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me  
 
-- 🔎 Passionate about **turning raw data into meaningful insights**
+- 🔍 Passionate about **turning raw data into meaningful insights**
 - 🧩 Skilled in **Python, SQL, Power BI, and Excel**
 - 📊 Love building **dashboards, visual stories, and analytical reports**
 - 📈 Currently learning **Machine Learning for Business Insights**
 - 📨 Reach me at: **ajay3027@gmail.com**
-- ⚡ Fun fact: I enjoy automating Excel tasks with Python 😄
+- ⚡ Fun fact: *I enjoy automating Excel tasks with Python 😄*
 
 ---
 
 ### 🛠️ Tech Toolbox  
 
-| Category | Tools |
-|-----------|--------|
-| **Languages** | Python, SQL |
-| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Visualization** | Power BI, Excel, Tableau (Basic) |
-| **Databases** | MySQL, PostgreSQL |
-| **Tools** | Git, Jupyter Notebook, VS Code |
+#### 🐍 Programming & Query Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+#### 📊 Data Analysis & Libraries  
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+#### 📈 Visualization Tools  
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+#### 💾 Databases  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+#### ⚙️ Tools & IDEs  
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
@@ -65,10 +91,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ajay3027" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ajay3027@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ajay3027">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
