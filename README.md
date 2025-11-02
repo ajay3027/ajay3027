@@ -80,6 +80,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajay3027&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay3027&theme=tokyonight" />
 </p>
+### 📊 Languages I Use for Data Analysis
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay3027&hide=html,css&layout=compact&theme=tokyonight&count_private=true)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay3027&hide=html,css&count_private=true&layout=compact&theme=tokyonight" />
