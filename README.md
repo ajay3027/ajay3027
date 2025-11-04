@@ -17,12 +17,14 @@
 ---
 
 ### 💬 About Me  
-🎯 **Focused on:** Data Analysis, Visualization & Forecasting  
+
+🎯 **Focused on:** Data Analysis, Visualization, and Insight Generation  
 📊 **Skilled in:** Python, SQL, Power BI, Excel, and Machine Learning  
-🧠 **Interests:** Predictive Analytics, Automation, and Interactive Dashboards  
-🚀 **Currently Working On:** Smart Data Cleaner (Flask Web App)  
-📚 **Learning:** Advanced Data Engineering and Model Deployment  
-💡 *“Turning data into insights that drive decisions.”*  
+🧠 **Interests:** Business Intelligence, Predictive Analytics, and Data Automation  
+📈 **Passionate About:** Transforming raw data into clear, actionable insights that drive business decisions  
+📚 **Currently Exploring:** Data Engineering, Model Optimization, and Cloud-Based Analytics  
+💡 *“I turn complex data into stories that empower smarter decisions.”*  
+
 
 ---
 
