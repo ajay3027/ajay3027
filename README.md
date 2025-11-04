@@ -51,7 +51,7 @@
   <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jupyter-1.svg" width="40" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg#/media/File:Jupyter_logo.svg" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40" height="40"/></a>
@@ -64,7 +64,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/ajaysharma3027" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
   <a href="mailto:ajaysharma070203@gmail.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40"/></a>
-  <a href="https://www.kaggle.com/ajaysharma3027" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" height="30" width="40"/></a>
   <a href="https://medium.com/@ajaysharma070203" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" height="30" width="40"/></a>
   <a href="https://github.com/ajay3027" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40"/></a>
 </p>
