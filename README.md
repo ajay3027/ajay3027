@@ -1,109 +1,79 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#00b4d8;">Ajay Sharma</span></h1>
-<h3 align="center">Data Analyst | Python | SQL | Power BI | Excel | Data Storytelling Enthusiast 📊</h3>
+# 👋 Hey there, I'm Ajay Sharma  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajay3027&label=Profile%20views&color=0e75b6&style=flat" alt="ajay3027" /> 
-  <img src="https://img.shields.io/github/followers/ajay3027?label=Followers&style=social" alt="followers-count">
-</p>
+💼 **Data Analyst | Python | Power BI | SQL | Machine Learning**
+
+I’m passionate about transforming raw data into meaningful insights and building tools that make data analysis easier for everyone.  
+With strong analytical and visualization skills, I love solving business problems through data storytelling and predictive modeling.
 
 ---
 
-### 🧠 About Me  
-
-- 🔍 Passionate about **turning raw data into meaningful insights**
-- 🧩 Skilled in **Python, SQL, Power BI, and Excel**
-- 📊 Love building **dashboards, visual stories, and analytical reports**
-- 📈 Currently learning **Machine Learning for Business Insights**
-- 📨 Reach me at: **ajaysharma070203@gmail.com**
-- ⚡ Fun fact: *I enjoy automating Excel tasks with Python 😄*
+### 🚀 About Me
+- 🎯 Focused on **data analysis, visualization, and forecasting projects**
+- 🧩 Skilled in **Python (Pandas, NumPy, Scikit-Learn), SQL, Power BI, and Excel**
+- 🧠 Exploring **predictive analytics and automation tools using Flask**
+- 📊 Love creating dashboards that reveal actionable insights
+- 💡 Always learning, experimenting, and sharing knowledge
 
 ---
 
-### 🛠️ Tech Toolbox  
-
-#### 🐍 Programming & Query Languages  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-#### 📊 Data Analysis & Libraries  
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-#### 📈 Visualization Tools  
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-
-#### 💾 Databases  
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-#### ⚙️ Tools & IDEs  
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### 🧰 Tech Toolbox
+| Category | Tools & Technologies |
+|-----------|---------------------|
+| **Languages** | Python, SQL, DAX |
+| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn |
+| **Data Tools** | Power BI, Excel, Jupyter Notebook |
+| **Web & Automation** | Flask, Git, GitHub |
+| **Skills** | Data Cleaning, EDA, Dashboarding, Forecasting, Model Evaluation |
 
 ---
 
-### 💼 Featured Projects  
+### 🌟 Featured Projects
 
-🚀 **[Sales Insights Dashboard (Power BI)](https://github.com/ajay3027/sales-insights)**  
-> Interactive dashboard to analyze regional and product-wise sales performance.  
-
-📊 **[Data Cleaning & EDA with Python](https://github.com/ajay3027/data-cleaning)**  
-> Processed and visualized real-world datasets using Pandas and Seaborn.  
-
-🧮 **[SQL Analytics Project](https://github.com/ajay3027/sql-analysis)**  
-> Solved real-world SQL problems to uncover business insights.  
-
-💡 **[Excel Automation Project](https://github.com/ajay3027/excel-automation)**  
-> Automated repetitive Excel reporting tasks using Python scripts.  
+#### 🔹 [Smart Data Cleaner](https://github.com/ajay3027/Smart-Data-Cleaner)
+Web app that helps users **clean and analyze CSV data automatically** using Flask and JavaScript.  
+📦 *Tech:* Python, Flask, HTML/CSS/JS, Pandas  
+⭐ *Highlight:* Automated missing value handling and column-wise analysis
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajay3027&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay3027&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay3027&count_private=true&layout=compact&theme=tokyonight" />
-</p>
+#### 🔹 [Microsoft Carbon Emission Analytics](https://github.com/ajay3027/Microsoft-Carbon-Emission-Analytics)
+Interactive **dashboard for analyzing global CO₂ emission trends** using Power BI and Python preprocessing.  
+📦 *Tech:* Power BI, Pandas, Plotly  
+⭐ *Highlight:* Country-wise emission visualization & year-over-year insights
 
 ---
 
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ajay-sharma-a27a50375/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ajaysharma070203@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ajay3027">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+#### 🔹 [Sales Forecasting](https://github.com/ajay3027/Sales-Forecasting)
+Predicts **future sales trends** based on historical data using machine learning regression models.  
+📦 *Tech:* Python, Scikit-Learn, Pandas  
+⭐ *Highlight:* Achieved 90% forecast accuracy (MAPE ≈ 10%)
 
 ---
 
-<h3 align="center">✨ “Data is the new oil — I refine it into insights.” ✨</h3>
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay3027&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay3027&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
+
+### 🧠 Current Focus
+- Developing **automated data analysis web apps**
+- Exploring **AI-based anomaly detection**
+- Enhancing **data visualization with interactive dashboards**
+
+---
+
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/ajaysharma3027)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ajay3027)  
+📧 **ajaysharma070203@gmail.com**
+
+---
+
+💡 *“Turning data into insights that drive impact.”*
