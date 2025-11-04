@@ -41,22 +41,59 @@
 ---
 
 <h3 align="left">🧰 Tech Toolbox</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><span style="display:inline-block; background-color:white; border-radius:10px; padding:5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></span></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><span style="display:inline-block; background-color:white; border-radius:10px; padding:5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></span></a>
-  <a href="https://numpy.org/" target="_blank"><span style="display:inline-block; background-color:white; border-radius:10px; padding:5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></span></a>
-  <a href="https://scikit-learn.org/" target="_blank"><span style="display:inline-block; background-color:white; border-radius:10px; padding:5px;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></span></a>
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"><span style="display:inline-block; background-color:white; border-radius:10px; padding:5px;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></span></a>
-  <a href="https://www.mysql.com/" target="_blank"><span style="display:inline-block; background-color:white; border-radius:10px; padding:5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></span></a>
-  <a href="https://www.tableau.com/" target="_blank"><span style="display:inline-block; background-color:white; border-radius:10px; padding:5px;"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/></span></a>
-  <a href="https://matplotlib.org/" target="_blank"><span style="display:inline-block; background-color:white; border-radius:10px; padding:5px;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/></span></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><span style="display:inline-block; background-color:white; border-radius:10px; padding:5px;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></span></a>
-  <a href="https://jupyter.org/" target="_blank"><span style="display:inline-block; background-color:white; border-radius:10px; padding:5px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" width="40" height="40"/></span></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><span style="display:inline-block; background-color:white; border-radius:10px; padding:5px;"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40" height="40"/></span></a>
-  <a href="https://git-scm.com/" target="_blank"><span style="display:inline-block; background-color:white; border-radius:10px; padding:5px;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></span></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><span style="display:inline-block; background-color:white; border-radius:10px; padding:5px;"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40" height="40"/></span></a>
-  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank"><span style="display:inline-block; background-color:white; border-radius:10px; padding:5px;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" width="40" height="40"/></span></a>
+### 🧠 Tech Stack & Tools
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://pandas.pydata.org" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  </a>
+  <a href="https://numpy.org" target="_blank">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  </a>
+  <a href="https://scikit-learn.org" target="_blank">
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  </a>
+  <a href="https://jupyter.org" target="_blank">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  </a>
+  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  </a>
+  <a href="https://powerbi.microsoft.com" target="_blank">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  </a>
+  <a href="https://www.tableau.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  </a>
+  <a href="https://matplotlib.org" target="_blank">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  </a>
+  <a href="https://seaborn.pydata.org" target="_blank">
+    <img src="https://img.shields.io/badge/Seaborn-7B9FE5?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+  </a>
+  <a href="https://flask.palletsprojects.com" target="_blank">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://img.shields.io/badge/Postgres-31648C?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  </a>
+  <a href="https://www.kaggle.com/ajaysharma3027" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
 </p>
+
 
 
 ---
