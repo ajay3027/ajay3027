@@ -51,11 +51,13 @@
   <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="By Cameron Oelsen - https://github.com/jupyter/jupyter.github.io/blob/master/assets/share.png, BSD, https://commons.wikimedia.org/w/index.php?curid=68763478" width="40" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" width="40" height="40" />
+</a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="40" height="40" />
+</a>
 </p>
 
 ---
