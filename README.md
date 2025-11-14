@@ -105,7 +105,10 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay3027&layout=compact&theme=tokyonight&hide_border=true&hide=batchfile&include=SQL" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay3027&layout=compact&theme=tokyonight&hide_border=true&hide=batchfile&langs_count=10" />
+</p>
+
 </p>
 
 ---
