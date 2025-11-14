@@ -99,22 +99,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajay3027&show_icons=true&theme=tokyonight&hide_border=true" alt="ajay3027 stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay3027&theme=tokyonight&hide_border=true" alt="ajay3027 streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay3027&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay3027&layout=compact&theme=tokyonight&hide_border=true&hide=batchfile" alt="top languages" />
 </p>
 
 ---
 
-<h3 align="center">🏆 Featured Projects</h3>
 
-- 🔹 [Smart Data Cleaner](https://github.com/ajay3027/Smart-Data-Cleaner) — Flask web app for cleaning and analyzing CSV data  
-- 🔹 [Microsoft Carbon Emission Analytics](https://github.com/ajay3027/Microsoft-Carbon-Emission-Analytics) — Power BI + Python analytics dashboard  
-- 🔹 [Sales Forecasting](https://github.com/ajay3027/Sales-Forecasting) — Machine learning model for sales prediction  
-
----
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajay3027&theme=tokyonight" alt="Ajay's summary" />
