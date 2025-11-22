@@ -8,12 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=ajay3027&label=Profile%20Views&color=0e75b6&style=flat" alt="ajay3027" />
 </p>
 
-<p align="center">
-  https://github-profile-trophy.vercel.app/?username=ajay3027
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ajay3027&theme=onedark&margin-w=15&margin-h=15" alt="ajay3027" />
-  </a>
-</p>
+
 
 ---
 
