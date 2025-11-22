@@ -85,8 +85,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ajay-sharma-a27a50375" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
   <a href="mailto:ajaysharma070203@gmail.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"  height="30" width="40"/></a>
-  <a href="https://www.kaggle.com/ajaysharma004" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" backgroundcolor="white" height="30" width="40"/></a>
-  <a href="https://github.com/ajay3027" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40"/></a>
+  <a href="https://www.kaggle.com/ajaysharma004" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" height="30" width="40" style="fill:#20BEFF;" /></a>
+  <a href="https://github.com/ajay3027" target="blank">  <svg width="40" height="30" viewBox="0 0 24 24" fill="#ffffff" xmlns="http://www.w3.org/2000/svg">
+      <path d="M12 .3a12 12 0 00-3.79 23.41c.6.11.82-.26.82-.58v-2.2c-3.34.73-4.04-1.61-4.04-1.61A3.18 3.18 0 004 16.9c-1.09-.74.08-.73.08-.73a2.53 2.53 0 011.84 1.24 2.57 2.57 0 003.49 1 2.57 2.57 0 01.76-1.62c-2.67-.3-5.47-1.34-5.47-5.93a4.64 4.64 0 011.24-3.22 4.3 4.3 0 01.12-3.18s1-.32 3.3 1.23a11.4 11.4 0 016 0c2.3-1.55 3.3-1.23 3.3-1.23a4.3 4.3 0 01.12 3.18 4.65 4.65 0 011.24 3.22c0 4.61-2.81 5.62-5.48 5.92a2.86 2.86 0 01.82 2.22v3.29c0 .33.21.7.83.58A12 12 0 0012 .3z"/>
+    </svg></a>
 </p>
 
 ---
