@@ -85,7 +85,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ajay-sharma-a27a50375" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
   <a href="mailto:ajaysharma070203@gmail.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40"/></a>
-  <a href="https://medium.com/@ajaysharma070203" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" height="30" width="40"/></a>
+  <a href="https://www.kaggle.com/ajaysharma004" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" height="30" width="40"/></a>
   <a href="https://github.com/ajay3027" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40"/></a>
 </p>
 
