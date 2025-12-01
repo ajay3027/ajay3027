@@ -118,8 +118,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay3027&layout=compact&theme=tokyonight&hide_border=true&hide=batchfile&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay3027&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
+
 
 ---
 
