@@ -8,8 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=ajay3027&label=Profile%20Views&color=0e75b6&style=flat" alt="ajay3027" />
 </p>
 
-
-
 ---
 
 ### 💬 About Me  
@@ -21,94 +19,52 @@
 📚 **Currently Exploring:** Data Engineering, Model Optimization, and Cloud-Based Analytics  
 💡 *“I turn complex data into stories that empower smarter decisions.”*  
 
-
 ---
 
 ### 🏷️ Tech Stack & Skills  
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://pandas.pydata.org" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </a>
-  <a href="https://numpy.org" target="_blank">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  </a>
-  <a href="https://scikit-learn.org" target="_blank">
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  </a>
-  <a href="https://jupyter.org" target="_blank">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  </a>
-  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  </a>
-  <a href="https://powerbi.microsoft.com" target="_blank">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  </a>
-  <a href="https://www.tableau.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  </a>
-  <a href="https://matplotlib.org" target="_blank">
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  </a>
-  <a href="https://seaborn.pydata.org" target="_blank">
-    <img src="https://img.shields.io/badge/Seaborn-7B9FE5?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-  </a>
-  <a href="https://flask.palletsprojects.com" target="_blank">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://img.shields.io/badge/Postgres-31648C?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://code.visualstudio.com" target="_blank">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  </a>
-  <a href="https://www.kaggle.com/ajaysharma3027" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-7B9FE5?style=for-the-badge&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postgres-31648C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
-
-
 
 ---
 
-<h3 align="left">🌐 Connect with Me:
+### 🌐 Connect with Me  
 
-<p>
-  <!-- LinkedIn -->
+<p align="center">
   <a href="https://www.linkedin.com/in/ajay-sharma-a27a50375/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40" style="fill:#0A66C2;" />
   </a>
-
-  <!-- Gmail -->
   <a href="mailto:ajaysharma070203@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40"/>
   </a>
-
-  <!-- Kaggle -->
   <a href="https://www.kaggle.com/ajaysharma004" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="40" height="40"/>
   </a>
-
-  <!-- GitHub -->
   <a href="https://github.com/ajay3027" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" style="filter:invert(1);" />
   </a>
 </p>
 
-
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajay3027&show_icons=true&theme=tokyonight&hide_border=true" alt="ajay3027 stats" />
 </p>
@@ -118,13 +74,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay3027&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay3027&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="ajay3027 top languages"/>
 </p>
-
-
----
-
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajay3027&theme=tokyonight" alt="Ajay's summary" />
@@ -132,7 +83,8 @@
 
 ---
 
-<h3 align="center">☕ Support My Work</h3>
+### ☕ Support My Work  
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/ajay3027">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
@@ -141,7 +93,8 @@
 
 ---
 
-<h3 align="center">⚡ Fun Fact</h3>
+### ⚡ Fun Fact  
+
 <p align="center">
-I turn coffee ☕ into insights 📊 and bugs 🐞 into features 🚀  
+I turn coffee ☕ into insights 📊 and bugs 🐞 into features 🚀
 </p>
