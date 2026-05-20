@@ -17,9 +17,7 @@
 🧠 **Interests:** Business Intelligence, Predictive Analytics, and Data Automation  
 📈 **Passionate About:** Transforming raw data into clear, actionable insights that drive business decisions  
 📚 **Currently Exploring:** Data Engineering, Model Optimization, and Cloud-Based Analytics  
-💡 *“I turn complex data into stories that empower smarter decisions.”*  
-
----
+💡 *“I turn complex data into stories that empower smarter decisions.”* ---
 
 ### 🏷️ Tech Stack & Skills  
 
@@ -48,16 +46,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajay-sharma-a27a50375/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40" style="fill:#0A66C2;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="mailto:ajaysharma070203@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   <a href="https://www.kaggle.com/ajaysharma04" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/ajay3027" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" style="filter:invert(1);" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35" />
   </a>
 </p>
 
@@ -66,16 +61,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=ajay3027&show_icons=true&theme=tokyonight&hide_border=true" alt="Ajay's GitHub Stats" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay3027&theme=tokyonight&hide_border=true" alt="Ajay's Streak Stats" height="180px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=ajay3027&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-profile-readme" alt="Ajay's Top Languages" height="180px" />
-</p>
-
 ---
-
 
 ### ⚡ Fun Fact  
 
