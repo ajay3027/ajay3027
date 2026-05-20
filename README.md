@@ -53,7 +53,7 @@
   <a href="mailto:ajaysharma070203@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40"/>
   </a>
-  <a href="https://www.kaggle.com/ajaysharma004" target="_blank">
+  <a href="https://www.kaggle.com/ajaysharma04" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="40" height="40"/>
   </a>
   <a href="https://github.com/ajay3027" target="_blank">
@@ -83,18 +83,8 @@
 
 ---
 
-### ☕ Support My Work  
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ajay3027">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
----
 
 ### ⚡ Fun Fact  
 
-<p align="center">
-I turn coffee ☕ into insights 📊 and bugs 🐞 into features 🚀
-</p>
+<p align="center"> Part-time data detective, full-time pattern finder. I ask datasets the hard questions. 🧠 </p>
