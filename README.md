@@ -63,15 +63,15 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajay3027&show_icons=true&theme=tokyonight&hide_border=true" alt="Ajay's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=ajay3027&show_icons=true&theme=tokyonight&hide_border=true" alt="Ajay's GitHub Stats" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay3027&theme=tokyonight&hide_border=true" alt="Ajay's Streak Stats" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay3027&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-profile-readme" alt="Ajay's Top Languages" height="180px" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=ajay3027&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-profile-readme" alt="Ajay's Top Languages" height="180px" />
 </p>
 
 ---
